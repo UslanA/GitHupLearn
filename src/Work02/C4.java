@@ -22,5 +22,7 @@ public class C4 {
            Cakisma olmadigi surece -git merge brnacAdi-
            branchdeki tum degisiklikleri main branch'e ekler
 
+           deneme 2 branch'i lesson7 commit1 icin eklendi
+
      */
 }
