@@ -28,7 +28,7 @@ public class C3 {
 
 
             checkout : commit'ler arasinda gecis yapar
-            ---- revert  : geriye dondurur ve o halini oto matik olarak commit yapar
+            ----revert  : geriye dondurur ve o halini oto matik olarak commit yapar
                       yani kalici olarak geriye dondurmus olur
          */
 }
