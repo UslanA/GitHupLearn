@@ -14,6 +14,7 @@ public class C3 {
            (istenen commit'in hash kodunun ilk 7 hanesi)
         4- istedigimiz commit'i inceledik ve projenin son haline donmek istiyorsak
            git checkout 234567 (son kommit'in hash kodu)
+
         Senaryo : son yapilan commit'i gecersiz kilip,
                   bir onceki commit'e donun
             1- son halini commit yapin
@@ -27,7 +28,7 @@ public class C3 {
 
 
             checkout : commit'ler arasinda gecis yapar
-            revert  : geriye dondurur ve o halini oto matik olarak commit yapar
+            ---- revert  : geriye dondurur ve o halini oto matik olarak commit yapar
                       yani kalici olarak geriye dondurmus olur
          */
 }
