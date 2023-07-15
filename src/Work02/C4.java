@@ -19,5 +19,8 @@ public class C4 {
         2-  main branch'de ikrn deneme branchindeki degisiklikleri kaydederiz
                 git merge demene
 
+           Cakisma olmadigi surece -git merge brnacAdi-
+           branchdeki tum degisiklikleri main branch'e ekler
+
      */
 }
